@@ -6,6 +6,8 @@
 package br.ufg.inf.mds.grupoes.calendarioacademico;
 
 import java.text.DateFormatSymbols;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Locale;
 
 /**
@@ -17,12 +19,13 @@ public class Mes {
   private int ano;
   private int codMes;
   private int codRegional;
-  private Evento[] listaEventos;
+  private List<Evento> listaEventos;
 
   public Mes(int ano, int codMes, int codRegional) {
     this.ano = ano;
     this.codMes = codMes;
     this.codRegional = codRegional;
+    this.listaEventos = new ArrayList<>();
   }
 
   public Mes(String linha) {
@@ -42,7 +45,8 @@ public class Mes {
     final String nomeMes = DateFormatSymbols.getInstance(local)
             .getMonths()[this.codMes - 1];
 
-    construtor.append(String.format("-- %s --\n", nomeMes.toUpperCase()));
+    construtor.append(String.format("** %s %s Regional %s **\n", 
+            nomeMes.toUpperCase(), this.ano, codRegional));
     for (final Evento evento : this.listaEventos) {
       String texto = String.format("> %s - %s", evento.getDia(),
               evento.getNome());
@@ -77,11 +81,15 @@ public class Mes {
     this.codRegional = codRegional;
   }
 
-  public Evento[] getListaEventos() {
+  public List<Evento> getListaEventos() {
     return listaEventos;
   }
 
-  public void setListaEventos(Evento[] listaEventos) {
+  public void setListaEventos(List<Evento> listaEventos) {
     this.listaEventos = listaEventos;
+  }
+  
+  public void addEvento(String nome, int dia, String descricao){
+    this.listaEventos.add(new Evento(nome, dia, descricao));
   }
 }

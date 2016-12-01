@@ -13,6 +13,12 @@ public class Evento {
   private String nome;
   private int dia;
   private String descricao;
+  
+  Evento(String nome, int dia, String descricao){
+      this.nome = nome;
+      this.dia = dia;
+      this.descricao = descricao;
+  }
 
   public String getNome() {
     return nome;
