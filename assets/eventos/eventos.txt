@@ -1,6 +1,700 @@
-PROBEC/PROVEC~01~08~2015~3~Inicio do evento~
-PROBEC/PROVEC~31~07~2016~3~Término do evento~
-Teste~31~07~2016~3~Teste~
-Testeee~31~07~2016~3~Teste~
-Testeeeeee~31~07~2016~3~Teste~
-PROBECaaa/PROVEC~31~06~2016~3~Término do evento~
+Recesso Acadêmico~10~02~2016~3~A partir das 14h - Quarta-feira de cinzas (Não haverá aulas sendo mantidas as demais atividades administrativas)~
+Disciplinas isoladas 1°semestre/2016~18~02~2016~3~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 1º semestre/2016.~
+PIBIC/PIVIC~22~02~2016~3~Inicio do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+PIBIC/PIVIC~11~04~2016~3~Término do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+Estágio 2016-1~22~02~2016~3~Publicação do Aviso de Edital de Seleção de Estagiários (Estágio curricular não obrigatório na UFG) para o 1º semestre/2016, na Regional Jataí.~
+Opção pelo grau acadêmico~29~02~2016~3~Data limite para os estudantes, da Regional Jataí, informarem às coordenações de curso a opção pelo bacharelado ou licenciatura para o 1º semestre/2016.~
+Stricto Sensu~01~03~2016~3~Inicio do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Stricto Sensu~28~03~2016~3~Término do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Lato Sensu~15~03~2016~3~Inicio do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Lato Sensu~15~04~2016~3~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Oferta 2016-1~21~03~2016~3~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 1º semestre/2016 na Regional Jataí.~
+Feriado Nacional~25~03~2016~3~Paixão de Cristo.~
+Planejamento Pedagógico 2016-1~04~04~2016~3~Inicio do evento (Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 1º semestre/2016 na Regional Jataí.)~
+Planejamento Pedagógico 2016-1~13~04~2016~3~Término do evento (Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 1º semestre/2016 na Regional Jataí.)~
+NL 2016-1~07~04~2016~3~Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares com Núcleo Livre para o 1º semestre/2016 na Regional Jataí.~
+Recesso Acadêmico~09~04~2016~3~Inicio do evento (Não haverá aulas sendo mantidas as demais atividades administrativas.)~
+Recesso Acadêmico~25~03~2016~3~Término do evento (Não haverá aulas sendo mantidas as demais atividades administrativas).~
+PIBIC/PIVIC E PROCELIN~12~04~2016~3~Inicio do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+PIBIC/PIVIC E PROCELIN~30~04~2016~3~Termino do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+Consolidação 2015-2~13~04~2016~3~Data limite para os professores consolidarem as turmas das disciplinas do 2º semestre/2015 na Regional Jataí.~
+Oferta 2016-1~14~04~2016~3~Data limite para as coordenações de curso ofertarem turmas para o 1º semestre/2016 na Regional Jataí.~
+Oferta 2016-1~14~04~2016~3~Data limite para as Unidades Acadêmicas Especiais validarem, para o 1º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Jataí.~
+Rotinas matrículas 2016-1~14~04~2016~3~Inicio do evento (Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Jataí até às 12h.)~
+Rotinas matrículas 2016-1~15~04~2016~3~Término do evento (Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Jataí até às 12h.)~
+Exclusão 2016-1(outros incisos)~14~04~2016~3~Publicação do edital de estudantes, da Regional Jataí, em situação de exclusão da UFG a partir do 1º semestre/2016 (incisos I, III, IV, V e VI, art. 105, RGCG).~
+Matrícula 2016-1~15~04~2016~3~Inicio do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 1º semestre/2016, conforme escalonamento, na Regional Jataí, a partir das 14h do dia 15/04/2016.)~
+Matrícula 2016-1~19~04~2016~3~Término do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 1º semestre/2016, conforme escalonamento, na Regional Jataí, a partir das 14h do dia 15/04/2016.)~
+NL 2016-1~15~04~2016~3~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 1º semestre/2016 na Regional de Jataí.~
+Período de aulas 2016-1 Curso de Medicina~18~04~2016~3~Inicio do evento (Período das aulas do 1º semestre/2016 para os estudantes do curso de Medicina da Regional Jataí.)~
+Período de aulas 2016-1 Curso de Medicina~06~09~2016~3~Término do evento (Período das aulas do 1º semestre/2016 para os estudantes do curso de Medicina da Regional Jataí.)~
+Feriado Nacional~21~04~2016~3~Tiradentes.~
+Vagas Remanescentes~05~08~2016~3~Publicação do Aviso de Edital de Preenchimento de Vagas Remanescentes.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16.~08~08~2016~3~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16.~16~08~2016~3~Término do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Revalidação de título~15~08~2016~3~Publicação do Aviso de Edital para Reconhecimento de título de pós-graduação Stricto Sensu expedido por instituição de ensino superior estrangeira.~
+Formandos 2016-1~16~08~2016~3~Data limite para registro e validação de atividades complementares dos formandos do 1º semestre/2016 da Regional Jataí.~
+Conpeex~22~08~2016~3~Inicio do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Conpeex~16~09~2016~3~Término do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Oferta 2016-2~23~08~2016~3~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de sua matrizes curriculares, a validação de oferta de turmas para o 2º semestre/2016 na Regional Jataí.~
+Mobilidade 2017-1~01~09~2016~3~Inicio do evento (Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-1~30~09~2016~3~Término do evento (Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Lato Sensu~01~09~2016~3~Inicio do evento  (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Lato Sensu~30~09~2016~3~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Liberação de pré-requisito ou co-requisito~02~09~2016~3~Inicio do evento (Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Jataí.)~
+Liberação de pré-requisito ou co-requsitio~15~09~2016~3~Término do evento (Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Jataí.)~
+NL 2016-2~05~09~2016~3~Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares com Núcleo Livre para o 2º semestre/2016 na Regional Jataí.~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~07~09~2016~3~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~25~09~2016~3~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Feriado Nacional~07~09~2016~3~Independência do Brasil.~
+Planejamento pedagógico 2016-2~08~09~2016~3~Inicio do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Jataí.)~
+Planejamento pedagógico 2016-2~12~09~2016~3~Término do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Jataí.)~
+Consolidação 2016-1~12~09~2016~3~Data limite para os professores consolidarem as turmas das disciplinas do 1º semestre/2016 na Regional Jataí.~
+Oferta 2016-2~13~09~2016~3~Data limite para as coordenações de curso ofertarem turmas para o 2º semestre/2016 na Regional Jataí.~
+Oferta 2016-2~13~09~2016~3~Data limite para as Unidades Acadêmicas Especiais validarem, para o 2º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Jataí.~
+Rotinas matrículas 2016-2~13~09~2016~3~Inicio do evento (Período de execução de rotinas preparatórias de matrícula do 2º semestre/2016 na Regional Jataí.)~
+Rotinas matrículas 2016-2~14~09~2016~3~Término do evento (Período de execução de rotinas preparatórias de matrícula do 2º semestre/2016 na Regional Jataí.)~
+NL 2016-2~14~09~2016~3~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 2º semestre/2016 na Regional de Jataí.~
+Matrícula 2016-2~15~09~2016~3~Inicio do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016, conforme escalonamento, na Regional Jataí.)~
+Matrícula 2016-2~20~09~2016~3~Término do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016, conforme escalonamento, na Regional Jataí.)~
+Mobilidade 2017-1~19~09~2016~3~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-2~21~10~2016~3~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Período de aulas 2016 Curso de Medicina~19~09~2016~3~Inicio do evento  (Período das aulas do 2º semestre/2016 para os estudantes do curso de Medicina da Regional Jataí.)~
+Período de aulas 2016 Curso de Medicina~22~02~2017~3~Término do evento (Período das aulas do 2º semestre/2016 para os estudantes do curso de Medicina da Regional Jataí.)~
+Trancamento 2016-2~22~09~2016~3~Inicio do evento  (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Jataí.)~
+Trancamento 2016-2~08~02~2017~3~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Jataí.)~
+Matrícula 2016-2~23~09~2016~3~Inicio do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Jataí.)~
+Matrícula 2106-2~26~09~2016~3~Término do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Jataí.)~
+Matrícula PME e PMIPES 2016-2~26~09~2016~3~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Jataí.)~
+Matrícula PME e PMIPES 2016-2~27~09~2016~3~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Jataí.)~
+Período de aulas 2016-2~26~09~2016~3~Inicio do evento (Período de aulas do 2º semestre de 2016 na Regional Jataí.)~
+Período de aulas 2016-2~22~02~2017~3~Término do evento (Período de aulas do 2º semestre de 2016 na Regional Jataí.)~
+Matrícula PEC-G 2016-2~26~09~2016~3~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Jataí.)~
+Matrícula PEC-G 2016-2~27~09~2016~3~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Jataí.)~
+Disciplinas isoladas 1°semestre/2016~07~10~2016~3~Data limite para as coordenações de curso da Regional Jataí encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 1º semestre/2016.~
+Exclusão 2016-2(outros incisos)~07~10~2015~3~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (incisos I e V, art. 105, RGCG) na Regional Jataí.~
+Matrícula 2016-2~11~10~2016~3~Data limite para os coordenadores de curso analisarem as solicitações de acréscimo de componente curricular para o 2º semestre/2016, Regional Jataí.~
+Liberação de pré-requisito e/ou co-requsito~11~10~2016~3~Data limite para os colegiados das unidades acadêmicas especiais analisarem solicitações de liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Jataí.~
+Feriado nacional~12~10~2016~3~Nossa Senhora Aparecida.~
+Domínio de conteúdo~13~10~2016~3~Inicio do evento  (Período para estudantes da Regional Jataí solicitarem, na seccional do CGA, dispensa de cursar disciplina no 2º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Domínio de Conteúdo~16~11~2016~3~Término do evento (Período para estudantes da Regional Jataí solicitarem, na seccional do CGA, dispensa de cursar disciplina no 2º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Conpeex~17~10~2016~3~Inicio do evento (Período de realização do Congresso de Pesquisa, Ensino e Extensão da Regional Jataí.)~
+Conpeex~19~10~2016~3~Término do evento (Período de realização do Congresso de Pesquisa, Ensino e Extensão da Regional Jataí.)~
+Conpeex~17~10~2016~3~Inicio do evento (Período de realização do Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Conpeex~19~10~2016~3~Término do evento (Período de realização do Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Biblioteca Central~21~10~2016~3~Inicio do evento  (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2017.)~
+Biblioteca Central~17~03~2016~3~Término do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2017.)~
+Exclusão 2016-1~26~10~2016~3~Publicação do edital de estudantes excluídos da UFG a partir do 1º semestre/2016 na Regional Jataí.~
+Revalidação de diploma~26~10~2016~3~Publicação do Aviso de edital para revalidação de diplomas de cursos de graduação expedidos por instituições de ensino superior estrangeiras, exceto para cursos de Medicina.~
+Formandos 2016-2~27~10~2016~3~Inicio do evento  (Período para a coordenação de curso da Regional Jataí divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 2º semestre/2016.)~
+Formandos 2106-2~09~11~2016~3~Término do evento (Período para a coordenação de curso da Regional Jataí divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 2º semestre/2016.)~
+Ponto Facultativo~28~10~2016~3~Dia do Servidor Público.~
+Recesso Acadêmico~29~10~2016~3~Recesso Acadêmico.~
+Feriado Nacional~02~11~2016~3~Finados.******************************************~
+Mobilidade 2017-2~07~11~2016~3~Publicação do aviso de Edital para a seleção de alunos para o PMI da UFG para 2017.~
+Formandos 2016-2~09~11~2016~3~Inicio do evento  (Período para as coordenações de curso da Regional Jataí disponibilizarem à seccional do CGA as listas de prováveis formandos do 2º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Formandos 2016-2~18~11~2016~3~Término do evento (Período para as coordenações de curso da Regional Jataí disponibilizarem à seccional do CGA as listas de prováveis formandos do 2º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°semestre/2017~10~11~2016~3~Publicação pela Unidade Acadêmica ou Unidade Acadêmica Especial do quantitativo de vagas disponíveis para Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+Mobilidade 2017-1~11~11~2016~3~Prazo de recebimento dos pedidos de mobilidade acadêmica, PME e PMIPES, enviados por outras IFES/IPES para ingresso no 1º semestre/2017.~
+Feriado Nacional~15~11~2016~3~Proclamação da República.~
+Formandos 2016-2~18~11~2016~3~Inicio do evento (Período para a seccional do CGA da Regional Jataí encaminhar às coordenações de curso os processos de colação de grau dos formandos do 2º semestre/2016.)~
+Formandos 2016-2~10~11~2016~3~Término do evento (Período para a seccional do CGA da Regional Jataí encaminhar às coordenações de curso os processos de colação de grau dos formandos do 2º semestre/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°semestre/17.~21~11~2016~3~Inicio do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°semestre/17.~30~11~2016~3~Término do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.)~
+Exclusão 2016-2(Inciso II)~29~11~2016~3~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (Inciso II, art.105, RGCG) na Regional Jataí.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°semestre/17~13~11~2016~3~Data limite para as coordenações de curso divulgarem o resultado das solicitações de Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+PROBEC/PROVEC~16~12~2016~3~Publicação do Edital PROBEC/PROVEC 2017/2018.~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~18~12~2016~3~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~15~01~2016~3~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~19~12~2016~3~Data limite para as coordenações de curso encaminharem ao CGA ou à suas Seccionais os formulários dos estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+Feriado Nacional~25~12~2016~3~Natal.~
+Mudança de Grau Acadêmico, Habilitação e Turno 1°sem/17~05~11~2016~3~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 1°sem/17~09~01~2017~3~Término do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Formandos 2016-2~10~01~2017~3~Inicio do evento (Período para as coordenações de curso da Regional Jataí devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 2º semestre/2016.)~
+Formandos 2016-2~10~02~2017~3~Término do evento (Período para as coordenações de curso da Regional Jataí devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 2º semestre/2016.)~
+Consolidação 2016-2~02~03~2017~3~Data limite para os professores consolidarem as turmas das disciplinas do 2º semestre/2016 na Regional Jataí.~
+Inicio das aulas 2017~14~03~2017~3~Início das aulas do 1º semestre de 2017 na Regional Jataí.~
+Exclusão 2016-2~14~04~2017~3~Publicação do edital de estudantes excluídos da UFG a partir do 2º semestre/2016 na Regional Jataí.~
+Disciplinas isoladas 2°semestre/2016~17~04~2017~3~Data limite para as coordenações de curso da Regional Jataí encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 2º semestre/2016.~
+PROBEC/PROVEC~01~08~2016~1~Inicio do evento (Período de atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC 2015.)~
+PROBEC/PROVEC~31~07~2016~1~Término do evento (Período de atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC 2015.)~
+Biblioteca Central~01~10~2016~2~Inicio do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de Bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2016.)~
+Biblioteca Central~16~03~2016~1~Término do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de Bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2016.)~
+Feriado Nacional~01~01~2016~2~Confraternização Universal.~
+PIBIC/PIVIC E PROCELIN~01~01~2016~2~Inicio do evento (Período final para prorrogação de projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~27~03~2016~2~Término do evento (Período final para prorrogação de projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~01~01~2016~2~Inicio do evento (Período final para cadastro de NOVOS projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN//PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~20~03~2016~2~Término do evento (Período final para cadastro de NOVOS projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN//PIBITI/PIVIC/PIVITI).)~
+Assistência estudantil~21~01~2016~2~Publicação de aviso de Edital de bolsas dos projetos de Assistência Estudantil da Procom/UFG.~
+Disciplinas isoladas 1°semestre/2016~01~02~2016~2~Data limite para as coordenações de cursos enviarem ao CGA ou às suas Seccionais as vagas em disciplinas isoladas para o 1º semestre/2016.~
+Ponto Facultativo~08~02~2016~2~Carnaval.~
+Ponto Facultativo~09~02~2016~2~Carnaval.~
+Até às 14h - Ponto Facultativo~10~02~2016~2~Quarta-Feira de Cinzas.~
+A partir das 14h - Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~10~02~2016~2~Quarta-Feira de Cinzas.~
+Disciplinas isoladas 1°semestre/2016.~18~02~2016~2~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 1º semestre/2016.~
+Estágio 2016-1~22~02~2016~2~Publicação do Aviso de Edital de Seleção de Estagiários (Estágio curricular não obrigatório na UFG) para o 1º semestre/2016, na Regional Goiás.~
+PIBIC/PIVIC~22~02~2016~2~Inicio do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+PIVIC/PIBIC~11~04~2016~2~Términdo do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+Stricto Sensu~01~03~2016~2~Inicio do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Stricto Sensu~28~03~2016~2~Término do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Lato Sensu~15~03~2016~2~Inicio do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Lato Sensu~15~04~2016~2~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Feriado nacional~25~03~2016~2~Paixão de Cristo.~
+Domínio de Conteúdo~07~03~2016~2~Inicio do evento (Período para estudantes da Regional Goiás solicitarem, na seccional do CGA, dispensa de cursar disciplina no 1º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Domínio de Conteúdo~16~05~2016~2~Término do evento (Período para estudantes da Regional Goiás solicitarem, na seccional do CGA, dispensa de cursar disciplina no 1º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Oferta 2016-1~11~04~2016~2~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de sua matrizes curriculares, a validação de oferta de turmas para o 1º semestre/2016 na Regional Goiás.~
+PIBIC/PIVIC E PROCELIN~12~04~2016~2~Inicio do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+PIBIC/PIVIC E PROCELIN~30~04~2016~2~Término do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+Feirado nacional~21~04~2016~2~Tiradentes.~
+NL 2016-1~25~04~2016~2~Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares com Núcleo Livre para o 1º semestre/2016 na Regional Goiás.~
+Mobilidade 2016-2~25~03~2016~2~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 2º semestre/2016.)~
+Mobilidade 2016-2~23~05~2016~2~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 2º semestre/2016.)~
+PROBEC/PROVEC~26~04~2016~2~Inicio do evento (Período para os diretores das unidades acadêmicas e chefes de unidades acadêmicas especiais indicar, no SIEC, as ações selecionadas para as bolsas PROBEC atribuídas às unidades (Etapa I), ou para que manisfestem, via SIEC, o interesse de contemplar com as bolsas atribuídas às unidades na primeira etapa, as ações de sua unidade que forem melhor pontuadas na segunda etapa da seleção.)~
+PROBEC/PROVEC~29~04~2016~2~Término do evento (Período para os diretores das unidades acadêmicas e chefes de unidades acadêmicas especiais indicar, no SIEC, as ações selecionadas para as bolsas PROBEC atribuídas às unidades (Etapa I), ou para que manisfestem, via SIEC, o interesse de contemplar com as bolsas atribuídas às unidades na primeira etapa, as ações de sua unidade que forem melhor pontuadas na segunda etapa da seleção.)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~27~04~2016~2~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~22~05~2016~2~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Consolidação 2015-2~29~04~2016~2~Data limite para os professores consolidarem as turmas das disciplinas do 2º semestre/2015 na Regional Goiás.~
+PIBIC/PIVIC E PROCELIN~30~04~2016~2~Inicio do evento (Divulgação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVIT homologadas referente ao período 2016/2017.)~
+PIBIC/PIVIC E PROCELIN~05~05~2016~2~Término do evento (Divulgação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVIT homologadas referente ao período 2016/2017.)~
+PIBIC/PIVIC E PROCELIN~30~04~2016~2~Inicio do evento (Período para recursos das inscrições não homologadas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC E PROCELIN~05~05~2016~2~Término do evento (Período para recursos das inscrições não homologadas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+Rotinas Matrículas 2016-1~02~05~2016~2~Inicio do evento (Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Goiás.)~
+Rotinas Matrículas 2016-1~03~05~2016~2~Término do evento (Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Goiás.)~
+Oferta 2016-1~02~05~2016~2~Data limite para as coordenações de curso ofertarem turmas para o 1º semestre/2016 na Regional Goiás.~
+Exclusão 2016-1(outros incisos)~04~05~2016~2~Publicação do edital de estudantes, da Regional Goiás, em situação de exclusão da UFG a partir do 1º semestre/2016 (incisos I, III, IV, V e VI, art. 105, RGCG).~
+Matrícula 2016-1~04~05~2016~2~Inicio do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 1º semestre/2016 na Regional Goiás.)~
+Matrícula 2016-1~10~05~2016~2~Término do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 1º semestre/2016 na Regional Goiás.)~
+NL 2016-1~04~05~2016~2~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 1º semestre/2016 na Regional Goiás.~
+Trancamento 2016-1~13~05~2016~2~Inicio do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 1º semestre/2016, para a Regional Goiás.)~
+Trancamento 2016-1~19~09~2016~2~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 1º semestre/2016, para a Regional Goiás.)~
+Matrícula 2016-1~13~05~2016~2~Inicio do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do 1º semestre/2016, na Regional Goiás.)~
+Matrícula 2016-1~16~05~2016~2~Término do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do 1º semestre/2016, na Regional Goiás.)~
+Matrícula 2016-1~18~05~2016~2~Inicio do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 1º semestre/2016 na Regional Goiás.)~
+Matrícula 2016-1~19~05~2016~2~Término do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 1º semestre/2016 na Regional Goiás.)~
+Matrícula PME e PMIPES 2016-1~23~05~2016~2~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 1º Semestre/2016 na Regional Goiás.)~
+Matrícula PME e PMIPES 2016-1~24~03~2016~2~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 1º Semestre/2016 na Regional Goiás.)~
+Matrícula PEC-G 2016-1~23~05~2016~2~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 1º Semestre/2016 na Regional Goiás.)~
+Matrícula PEC-G 2016-1~24~05~2016~2~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 1º Semestre/2016 na Regional Goiás.)~
+Período de aulas 2016-1~23~05~2016~2~Inicio do evento (Período de aulas do 1º semestre de 2016 Regional Goiás.)~
+Período de aulas 2016-1~03~10~2016~2~Término do evento (Período de aulas do 1º semestre de 2016 Regional Goiás.)~
+Ponto Facultativo~26~05~2016~2~Corpus Christi.~
+Planejamento pedagógico 2016-1~27~05~2016~2~Inicio do evento (Período para planejamento pedagógico e administrativo das atividades do 1º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Goiás.)~
+Planejamento pedagógico 2016-1~29~05~2016~2~Término do evento (Período para planejamento pedagógico e administrativo das atividades do 1º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Goiás.)~
+PROBEC/PROVEC~07~06~2016~2~Publicação preliminar dos resultados das ações selecionadas para o PROBEC/PROVEC 2016, com 48h para interposição de recurso.~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°semestre/2016~08~06~2016~2~Publicação pela Unidade Acadêmica ou Unidade Acadêmica Especial do quantitativo de vagas disponíveis para Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+Mobilidade 2016-2~10~06~2016~2~Prazo de recebimento dos pedidos de mobilidade acadêmica, PME e PMIPES, enviados por outras IFES/IPES para ingresso no 2º semestre/2016.~
+Disciplinas isoladas 2°semestre/2016~20~06~2016~2~Data limite para as coordenações de curso da Regional Goiás encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 2º semestre/2015.~
+PIBIC/PIVIC~20~06~2016~2~Inicio do evento (Avaliação das propostas PIBIC/PIBIC-AF/PIVIC pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~21~06~2016~2~Término do evento (Avaliação das propostas PIBIC/PIBIC-AF/PIVIC pelo Comitê Externo do CNPq.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°semestre/2016~20~06~2016~2~Inicio do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°semestre/2016~28~06~2016~2~Término do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.)~
+PROBEC/PROVEC~23~06~2016~2~Publicação Final dos resultados das ações selecionadas para o PROBEC/PROVEC 2016.~
+PROBEC/PROVEC~24~06~2016~2~Inicio do evento (Período de entrega dos documentos, na PROEC, para cadastro dos alunos bolsistas e/ou voluntários, pelos coordenadores de ações contempladas (Etapa I e Etapa II) no PROBEC/PROVEC 2016.)~
+PROBEC/PROVEC~15~07~2016~2~Término do evento (Período de entrega dos documentos, na PROEC, para cadastro dos alunos bolsistas e/ou voluntários, pelos coordenadores de ações contempladas (Etapa I e Etapa II) no PROBEC/PROVEC 2016.)~
+Disciplinas isoladas 2°semestre/2016~28~06~2016~2~Data limite para as coordenações de cursos enviarem ao CGA ou às suas Seccionais as vagas de disciplinas isoladas para o 2º semestre/2016.~
+PIBIC/PIVIC~29~06~2016~2~Inicio do evento (Avaliação das propostas PIBITI/PIVITI pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~30~06~2016~2~Término do evento (Avaliação das propostas PIBITI/PIVITI pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC E PROCELIN~01~07~2016~2~Inicio do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC E PROCELIN~06~07~2016~2~Término do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC~01~07~2016~2~Inicio do evento (Período para os bolsistas e voluntários vinculados ao PIBIC/PIBIC-AF/PIVIC/PIBITI/PIVITI encaminharem seus trabalhos finais (relatórios) referentes ao período 2015/2016 aos orientadores para correção.)~
+PIBIC/PIVIC~15~07~2016~2~Término do evento (Período para os bolsistas e voluntários vinculados ao PIBIC/PIBIC-AF/PIVIC/PIBITI/PIVITI encaminharem seus trabalhos finais (relatórios) referentes ao período 2015/2016 aos orientadores para correção.)~
+PIBIC/PIVIC~01~07~2016~2~Inicio do evento (Período para envio, via online, do trabalho final (PIBIC/PIBIC-AF/ PIVIC/PIBITI/PIVITI) relativo ao período de 2015/2016, "período exclusivo ao orientador".)~
+PIBIC/PIVIC~08~08~2016~2~Término do evento (Período para envio, via online, do trabalho final (PIBIC/PIBIC-AF/ PIVIC/PIBITI/PIVITI) relativo ao período de 2015/2016, "período exclusivo ao orientador".)~
+PIBIC/PIVIC~01~07~2016~2~Iniico do evento (Divulgação "preliminar" das propostas de PIBIC/PIBIC-AF/PIVIC/ PIBITI/PIVITI recomendadas pelo Comitê Institucional de Iniciação Científica/UFG/CNPq.)~
+PIBIC/PIVIC~06~07~2016~2~Término do evento (Divulgação "preliminar" das propostas de PIBIC/PIBIC-AF/PIVIC/ PIBITI/PIVITI recomendadas pelo Comitê Institucional de Iniciação Científica/UFG/CNPq.)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~03~07~2016~2~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~17~07~2016~2~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Disciplinas isoladas 2°semestre/2016.~06~07~2016~2~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 2º semestre/2016.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16~13~07~2016~2~Data limite para as coordenações de curso divulgarem o resultado das solicitações de Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+PIBIC/PIVIC E PROCELIN~18~07~2016~2~Inicio do evento (Divulgação do resultado final com concessão das bolsas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT 2016/2016.)~
+PIBIC/PIVIC E PROCELIN~22~07~2016~2~Término do evento (Divulgação do resultado final com concessão das bolsas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT 2016/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°sem/16~19~07~2016~2~Data limite para as coordenações de curso encaminharem ao CGA ou à suas Seccionais os formulários dos estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+PIBIC/PIVIC E PROCELIN~19~07~2016~2~Inicio do evento (Período para aceite do Termo de Compromisso - UFG para desenvolvimento dos planos de trabalho PIBIC/PIBIC-AF/ PROLICEN//PIBITI/PIVIC/PIVIT, período 2016/2016.)~
+PIBIC/PIVIC E PROCELIN~25~07~2016~2~Término do evento (Período para aceite do Termo de Compromisso - UFG para desenvolvimento dos planos de trabalho PIBIC/PIBIC-AF/ PROLICEN//PIBITI/PIVIC/PIVIT, período 2016/2016.)~
+Feriado Municipal~25~07~2016~2~Aniversário da Cidade de Goiás.~
+Exclusão 2016-1(inciso II)~26~07~2016~2~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 1º semestre/2016 (Inciso II, art.105, RGCG) na Regional Goiás.~
+PROBEC/PROVEC~01~08~2016~2~Inicio do evento (Período das atividades dos bolsistas PROBEC/2016 e dos voluntários PROVEC/2016.)~
+PROBEC/PROVEC~31~07~2016~2~Término do evento (Período das atividades dos bolsistas PROBEC/2016 e dos voluntários PROVEC/2016.)~
+Vagas Remanescentes~05~08~2016~2~Publicação do Aviso de Edital de Preenchimento de Vagas Remanescentes.~
+Formnados 2016-1~08~08~2016~2~Inicio do evento (Período para a coordenação de curso da Regional Goiás divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 1º semestre/2016.)~
+Formandos 2016-1~17~08~2016~2~Término do evento (Período para a coordenação de curso da Regional Goiás divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 1º semestre/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°sem/16~08~08~2016~2~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°sem/16~16~08~2016~2~Término do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Revalidação de título~15~08~2016~2~Publicação do Aviso de Edital para Reconhecimento de título de pós-graduação Stricto Sensu expedido por instituição de ensino superior estrangeira.~
+Formandos 2016-1~18~08~2016~2~Inicio do evento (Período para as coordenações de curso da Regional Goiás disponibilizarem à seccional do CGA as listas de prováveis formandos do 1º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Formandos 2016-1~26~08~2016~2~Término do evento (Período para as coordenações de curso da Regional Goiás disponibilizarem à seccional do CGA as listas de prováveis formandos do 1º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Conpeex~22~08~2016~2~Inicio do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Conpeex~16~08~2016~2~Término do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Lato Sensu~01~09~2016~2~Inicio do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Lato Sensu~30~09~2016~2~Términdo do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Mobilidade 2017-1~01~09~2016~2~Inicio do evento (Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-1~30~09~2016~2~Término do evento (Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Feriado nacional~07~09~2016~2~Independência do Brasil.~
+Oferta 2016-2~13~09~2016~2~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 2º semestre/2016 na Regional Goiás.~
+Formandos 2016-1~14~09~2016~2~Data limite para registro e validação de atividades complementares dos formandos do 1º semestre/2016 da Regional Goiás.~
+Conpeex~14~09~2016~2~Período de realização do Congresso de Pesquisa, Ensino e Extensão da Regional Goiás.~
+Espaço das Profissões~14~09~2016~2~Período de realização do “Espaço das Profissões” na Regional Goiás.~
+Espaço das Profissões~14~09~2016~2~Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas.)~
+Mobilidade 2017-1~19~09~2016~2~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-1~21~10~2016~2~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Formandos 2016-1~19~09~2016~2~Inicio do evento (Período para a seccional do CGA da Regional Goiás encaminhar às coordenações de curso os processos de colação de grau dos formandos do 1º semestre/2016.)~
+Formandos 2016-1~23~09~2016~2~Término do evento (Período para a seccional do CGA da Regional Goiás encaminhar às coordenações de curso os processos de colação de grau dos formandos do 1º semestre/2016.)~
+Formandos 2016-1~26~09~2016~2~Inicio do evento (Período para as coordenações de curso da Regional Goiás devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 1º semestre/2016.)~
+Formandos 2016-1~07~10~2016~2~Término do evento (Período para as coordenações de curso da Regional Goiás devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 1º semestre/2016.)~
+Liberação de pré-requisito e/ou co-requisito~29~09~2016~2~Inicio do evento (Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares com Núcleo Livre para o 2º semestre/2016 na Regional Goiás.)~
+Liberação de pré-requisito e/ou co-requesito~10~10~2016~2~Término do evento Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Goiás.~
+NL 2016-2~30~09~2016~2~(Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares com Núcleo Livre para o 2º semestre/2016 na Regional Goiás.)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~04~10~2016~2~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~16~10~2016~2~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Planejamento pedagógico 2016-2~04~10~2016~2~Inicio do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Goiás.)~
+Planejamento pedagógico 2016-2~06~10~2016~2~Término do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Goiás.)~
+Consolidação 2016-1~06~10~2016~2~Data limite para os professores consolidarem as turmas das disciplinas do 1º semestre/2016 na Regional Goiás.~
+NL 2016-2~07~10~2016~2~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 2º semestre/2016 na Regional Goiás.~
+Oferta 2016-2~07~10~2016~2~Data limite para as Unidades Acadêmicas Especiais validarem, para o 2º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Goiás.~
+Oferta 2016-2~07~10~2016~2~Data limite para as coordenações de curso ofertarem turmas para o 2º semestre/2016 na Regional Goiás.~
+ROtina Matrícula 2016-2~07~10~2016~2~Período de execução de rotinas preparatórias de matrícula do 2º semestre/2016 na Regional Goiás.~
+Exclusão 2016-2(outros incisos)~07~10~2016~2~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (incisos I e V, art. 105, RGCG) na Regional Goiás.~
+Matrícula 2016-2~10~10~2016~2~Inicio do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016 na Regional Goiás.)~
+Matrícula 2016-2~12~10~2016~2~Término do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016 na Regional Goiás.)~
+Feriado nacional~12~10~2016~2~Nossa Senhora Aparecida.~
+Matrícula 2016-2~14~10~2016~2~Inicio do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Goiás.)~
+Matrícula 2016-2~17~10~2016~2~Término do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Goiás.)~
+Trancamento 2016-2~14~10~2016~2~Inicio do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Goiás.)~
+Trancamento 2016-2~02~03~2017~2~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Goiás.)~
+Conpeex~17~10~2016~2~Inicio do evento (Período de realização do Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID))~
+Conpeex~19~10~2016~2~Término do evento (Período de realização do Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID))~
+Matrícula PEC-G 2016-2~17~10~2016~2~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Goiás.)~
+Matrícula PEC-G 2016-2~18~10~2016~2~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Goiás.)~
+Matrícula PME e PMIPES 2016-2~17~10~2016~2~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Goiás.)~
+Matrícula PME e PMIPES 2016-2~18~10~2016~2~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Goiás.)~
+Período de aulas 2016-2~17~10~2016~2~Inicio do ano (Período de aulas do 2º semestre de 2016 na Regional Goiás.)~
+Período de aulas 2016-2~15~03~2017~2~Término do evento (Período de aulas do 2º semestre de 2016 na Regional Goiás.)~
+Biblioteca Central~21~10~2016~2~Inicio do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2017.)~
+Biblioteca Central~17~03~2017~2~Término do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2017.)~
+Revalidação de Diploma~26~10~2016~2~Publicação do Aviso de edital para revalidação de diplomas de cursos de graduação expedidos por instituições de ensino superior estrangeiras, exceto para cursos de Medicina.~
+Ponto Facultativo~28~10~2016~2~Dia do Servidor Público.~
+Recesso Acadêmico~29~10~2016~2~Recesso Acadêmico.~
+Liberação de pré-requisito e/ou co-requisito~01~11~2016~2~Data limite para os colegiados das unidades acadêmicas especiais analisarem solicitações de liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Goiás.~
+Feriado nacional~02~11~2016~2~Finados.~
+Domínio de Conteúdo~03~11~2016~2~Inicio do evento (Período para estudantes da Regional Goiás solicitarem, na seccional do CGA, dispensa de cursar disciplina no 2º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Domínio de Conteúdo~05~13~2016~2~Término do evento (Período para estudantes da Regional Goiás solicitarem, na seccional do CGA, dispensa de cursar disciplina no 2º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Matrícula 2016-2~03~11~2016~2~Data limite para os coordenadores de curso analisarem as solicitações de acréscimo de componente curricular para o 2º semestre/2016, Regional Goiás.~
+Disciplinas isoladas 1°semestre/2016~04~11~2016~2~Data limite para as coordenações de curso da Regional Goiás encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 1º semestre/2016.~
+Mobilidade 2017-1~07~11~2016~2~Publicação do aviso de Edital para a seleção de alunos para o PMI da UFG para 2017.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~10~11~2016~2~Publicação pela Unidade Acadêmica ou Unidade Acadêmica Especial do quantitativo de vagas disponíveis para Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+Mobilidade~11~11~2016~2~Prazo de recebimento dos pedidos de mobilidade acadêmica, PME e PMIPES, enviados por outras IFES/IPES para ingresso no 1º semestre/2017.~
+Feriado nacional~15~11~2016~2~Proclamação da República.~
+Formandos 2016-2~17~11~2016~2~Inicio do evento (Período para a coordenação de curso da Regional Goiás divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 2º semestre/2016.)~
+Formandos 2016-2~28~11~2016~2~Término do evento (Período para a coordenação de curso da Regional Goiás divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 2º semestre/2016.)~
+Exclusão 2016-1~18~11~2016~2~Publicação do edital de estudantes excluídos da UFG a partir do 1º semestre/2016 na Regional Goiás.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~21~11~2016~2~Inicio do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~30~11~2016~2~Término do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.)~
+Feriado Municipal~08~12~2016~2~Dia de Nossa Sra.da Conceição(Padroeira Cidade de Goiás).~
+Formandos 2016-2~13~12~2016~2~Inicio do evento (Período para as coordenações de curso da Regional Goiás disponibilizarem à seccional do CGA as listas de prováveis formandos do 2º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Formandos 2016-2~20~11~2016~2~Término do evento (Período para as coordenações de curso da Regional Goiás disponibilizarem à seccional do CGA as listas de prováveis formandos do 2º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~13~11~2016~2~Data limite para as coordenações de curso divulgarem o resultado das solicitações de Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+PROBEC/PROVEC~16~12~2016~2~Publicação do Edital PROBEC/PROVEC 2017/2018.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17.~19~11~2016~2~Data limite para as coordenações de curso encaminharem ao CGA ou à suas Seccionais os formulários dos estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+Formandos 2016-2~21~12~2016~2~Inicio do evento (Período para a seccional do CGA da Regional Goiás encaminhar às coordenações de curso os processos de colação de grau dos formandos do 2º semestre/2016.)~
+Formandos 2016-2~19~01~2017~2~Término do evento (Período para a seccional do CGA da Regional Goiás encaminhar às coordenações de curso os processos de colação de grau dos formandos do 2º semestre/2016.)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~22~12~2016~2~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~15~01~2017~2~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Feriado nacional~25~12~2016~2~Natal.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~05~01~2017~2~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~09~01~2017~2~Término do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Exclusão 2016-2(Inciso II)~17~11~2016~2~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (Inciso II, art.105, RGCG) na Regional Goiás.~
+Formandos 2016-2~19~01~2016~2~Inicio do evento (Período para as coordenações de curso da Regional Goiás devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 2º semestre/2016.)~
+Formandos 2016-2~20~02~2016~2~Término do evento (Período para as coordenações de curso da Regional Goiás devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 2º semestre/2016.)~
+Ponto Facultativo~27~02~2017~2~Carnaval.~
+Ponto Facultativo~28~02~2017~2~Carnaval.~
+A partir das 14h - Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~01~03~2017~2~Quarta-feira de Cinzas.~
+Até às 14h - Ponto Facultativo~01~03~2016~2~Quarta-feira de Cinzas.~
+Formandos 2016-2~14~03~2017~2~Data limite para registro e validação de atividades complementares dos formandos do 2º semestre/2016 da Regional Goiás.~
+Consolidação 2016-2~20~03~2016~2~Data limite para os professores consolidarem as turmas das disciplinas do 2º semestre/2016 na Regional Goiás.~
+Inicio das aulas 2017~03~04~2017~2~Início das aulas do 1º semestre de 2017 na Regional Goiás.~
+Exclusão 2016-2~05~05~2017~2~Publicação do edital de estudantes excluídos da UFG a partir do 2º semestre/2016 na Regional Goiás.~
+Disciplinas isoladas 2°semestre/2016~10~05~2017~2~Data limite para as coordenações de curso da Regional Goiás encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 2º semestre/2016.~
+PROBEC/PROVEC~01~08~2015~1~Inicio do evento  (Período de atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC 2015.)~
+PROBEC/PROVEC~31~07~2016~1~Término do evento (Período de atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC 2015.)~
+Biblioteca Central~01~10~2015~1~Inicio do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de Bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2016.)~
+Biblioteca Central~16~03~2016~1~Término do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de Bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2016.)~
+Feraido Nacional~01~01~2016~1~Confraternização Universal.~
+PIBIC/PIVIC E PROCELIN~01~01~2016~1~Inicio do evento (Período final para cadastro de NOVOS projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN//PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~20~03~2016~1~Término do evento (Período final para cadastro de NOVOS projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN//PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~01~01~2016~1~Inicio do evento  (Período final para prorrogação de projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~27~03~2016~1~Término do evento (Período final para prorrogação de projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVITI).)~
+Assistência estudantil~21~01~2016~1~Publicação de aviso de Edital de bolsas dos projetos de Assistência Estudantil da Procom/UFG.~
+Disciplinas isoladas 1°semestre/2016~01~02~2016~1~Data limite para as coordenações de cursos enviarem ao CGA ou às suas Seccionais as vagas em disciplinas isoladas para o 1º semestre/2016.~
+Ponto Facultativo~08~02~2016~1~Carnaval.~
+Ponto Facultativo~09~02~2016~1~Carnaval.~
+Até às 14h - Ponto Facultativo~10~02~2016~1~Quarta-feria de Cinzas.~
+Disciplinas isoladas 1°semestre/2016.~18~02~2016~1~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 1º semestre/2016.~
+Opção pelo grau acadêmico~19~02~2016~1~Data limite para os estudantes, da Regional Catalão, informarem às coordenações de curso a opção pelo bacharelado ou licenciatura para o 1º semestre/2016.~
+PIBIC/PIVIC~22~02~2016~1~Inicio do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+PIBIC/PIVIC~11~04~2016~1~Término do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+Stricto Sensu~01~03~2016~1~Inicio do evento  (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Stricto Sensu~28~03~2016~1~Término do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Oferta 2016-1~01~03~2016~1~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 1º semestre/2016 na Regional Catalão.~
+Verão 2016 Oferta~04~03~2016~1~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o Verão/2016 na Regional Catalão.~
+Verão 2016 Oferta~09~03~2016~1~Data limite para as Unidades Acadêmicas Especiais validarem, para o Verão/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Catalão.~
+Verão 2016 NL~09~03~2016~1~Data limite para as Unidades Acadêmicas Especiais da Regional Catalão encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares como Núcleo Livre para o Verão/2016.~
+Verão 2016 NL~11~03~2016~1~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o Verão/2016 na Regional de Catalão.~
+Verão 2016 Oferta~11~03~2016~1~Data limite para as coordenações de curso ofertarem turmas para o Verão/2016 na Regional Catalão.~
+Verão 2016 Matrícula~14~03~2016~1~Inicio do evento (Periodo para o estudante solicitar vagas em turmas ofertadas no Verão/2016 na Regional Catalão.)~
+Verão 2016 Matrícula~15~03~2016~1~Término do evento (Periodo para o estudante solicitar vagas em turmas ofertadas no Verão/2016 na Regional Catalão.)~
+Lato Sensu~15~03~2016~1~Inicio do evento  (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Lato Sensu~15~04~2016~1~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Verão 2016 Matrícula~17~03~2016~1~Inicio do evento  (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do Verão/2016 na Regional de Catalão.)~
+Verão 2016 Matríucla~18~03~2016~1~Término do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do Verão/2016 na Regional de Catalão.)~
+NL 2016-1~18~03~2016~1~Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares como Núcleo Livre para o 1º semestre/2016 na Regional Catalão.~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~20~03~2016~1~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~11~04~2016~1~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Verão 2016 Matrícula~21~03~2016~1~Período para o Estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular - Verão/2016 na Regional Catalão.~
+Planejamento pedagógico 2016-1~21~03~2016~1~Inicio do evento  (Período para planejamento pedagógico e administrativo das atividades do 1º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Catalão.)~
+Planejamento pedagógico 2016-1~23~03~2016~1~Término do evento (Período para planejamento pedagógico e administrativo das atividades do 1º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais da Regional Catalão.)~
+Verão 2016~21~03~2016~1~Inicio do evento (Período para realização das disciplinas de Verão/2016.)~
+Verão 2016~11~04~2016~1~Término do evento (Período para realização das disciplinas de Verão/2016.)~
+Oferta 2016-1~24~03~2016~1~Data limite para as Unidades Acadêmicas Especiais validarem, para o 1º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Catalão.~
+Oferta 2016-1~24~03~2016~1~Data limite para as coordenações de curso ofertarem turmas para o 1º semestre/2016 na Regional Catalão.~
+Feriado Nacional~25~03~2016~1~Paixão de Cristo.~
+NL 2016-1~28~03~2016~1~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 1º semestre/2016 na Regional Catalão.~
+Consolidação 2015-2~28~03~2016~1~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 1º semestre/2016 na Regional Catalão.~
+Exclusão 2016-1 (outros incisos)~28~03~2016~1~Publicação do edital de estudantes, da Regional Catalão, em situação de exclusão da UFG a partir do 1º semestre/2016 (incisos I, III, IV, V e VI, art. 105, RGCG).~
+Rotinas matrícula 2016-1~29~03~2016~1~Inicio do evento (Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Catalão.)~
+Rotinas matrícula 2016-1~30~03~2016~1~Término do evento (Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Catalão.)~
+Matrícula 2016-1~07~04~2016~1~Inicio do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do 1º semestre/2016, na Regional Catalão.)~
+Matrícula 2016-1~11~04~2016~1~Término do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do 1º semestre/2016, na Regional Catalão.)~
+Trancamento 2016-1~07~04~2016~1~Inicio do evento  (Período para o estudante veterano trancar matrícula, via Portal do Discente - 1º semestre/2016, para a Regional Catalão.)~
+Trancamento 2016-1~11~08~2016~1~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 1º semestre/2016, para a Regional Catalão.)~
+Matrícula 2016-1~12~04~2016~1~Inicio do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 1º semestre/2016 na Regional Catalão.)~
+Matrícula 2106-1~13~04~2016~1~Término do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 1º semestre/2016 na Regional Catalão.)~
+Verão 2016 Consolidação~12~04~2016~1~Data limite para os professores consolidarem as turmas do Verão/2016 na Regional Catalão.~
+PIBIC/PIVIC E PROCELIN~12~04~2016~1~Inicio do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+PIBIC/PIVIC E RPOCELIN~30~04~2016~1~Término do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+Período de aulas 2016-1~12~04~2016~1~Inicio do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+Período de aulas 2016-1~25~08~2016~1~Término do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+Matrícula PEC-G 2016-1~12~04~2016~1~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 1º Semestre/2016 na Regional Catalão.)~
+Matrícula PEC-G 2016-1~13~04~2016~1~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 1º Semestre/2016 na Regional Catalão.)~
+Matrícula PME e PMIPES 2016-1~12~04~2016~1~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 1º Semestre/2016 na Regional Catalão.)~
+Matrícula PME e PMIPES 2016-1~13~04~2016~1~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 1º Semestre/2016 na Regional Catalão.)~
+Disciplinas isoladas 2°semestre/2015~20~04~2016~1~Data limite para as coordenações de curso da Regional Catalão encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 2º semestre/2015.~
+Feriado Nacional~21~04~2016~1~Tiradentes.~
+Mobilidade 2016-2~25~04~2016~1~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 2º semestre/2016.)~
+Mobilidade 2016-2~23~05~2016~1~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 2º semestre/2016.)~
+Domínio de Conteúdo~25~04~2016~1~Inicio do evento (Período para estudantes da Regional Catalão solicitarem, na seccional do CGA, dispensa de cursar disciplina no 1º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Domínio de Conteúdo~30~05~2016~1~Término do evento (Período para estudantes da Regional Catalão solicitarem, na seccional do CGA, dispensa de cursar disciplina no 1º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+PROBEC/PROVEC~26~04~2016~1~Inicio do evento (Período para os diretores das unidades acadêmicas e chefes de unidades acadêmicas especiais indicar, no SIEC, as ações selecionadas para as bolsas PROBEC atribuídas às unidades (Etapa I), ou para que manisfestem, via SIEC, o interesse de contemplar com as bolsas atribuídas às unidades na primeira etapa, as ações de sua unidade que forem melhor pontuadas na segunda etapa da seleção.)~
+PROBEC/PROVEC~20~04~2016~1~Término do evento (Período para os diretores das unidades acadêmicas e chefes de unidades acadêmicas especiais indicar, no SIEC, as ações selecionadas para as bolsas PROBEC atribuídas às unidades (Etapa I), ou para que manisfestem, via SIEC, o interesse de contemplar com as bolsas atribuídas às unidades na primeira etapa, as ações de sua unidade que forem melhor pontuadas na segunda etapa da seleção.)~
+PIBIC/PIVIC E PROCELIN~30~04~2016~1~Inicio do evento (Divulgação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVIT homologadas referente ao período 2016/2017.)~
+PIBIC/PIVIC E PROCELIN~05~05~2016~1~Término do evento (Divulgação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVIT homologadas referente ao período 2016/2017.)~
+PIBIC/PIVIC E PROCELIN~30~04~2016~1~Inicio do evento (Período para recursos das inscrições não homologadas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC E PROCELIN~05~05~2016~1~Término do evento (Período para recursos das inscrições não homologadas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+Feriado Nacional~01~05~2016~1~Dia Mundial do Trabalho.~
+Formandos 2016-1~16~05~2016~1~Inicio do evento (Período para a coordenação de curso da Regional Catalão divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 1º semestre/2016.)~
+Formandos 2016-1~25~05~2016~1~Término do evento (Período para a coordenação de curso da Regional Catalão divulgar, no âmbito das Unidades Acadêmicas Especiais, a lista dos prováveis formandos do 1º semestre/2016.)~
+Ponto Facultativo~26~05~2016~1~Corpus Christi~
+Formandos 2016-1~30~05~2016~1~Inicio do evento (Período para as coordenações de curso da Regional Catalão disponibilizarem à seccional do CGA as listas de prováveis formandos do 1º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Formandos 2016-1~10~06~2016~1~Término do evento (Período para as coordenações de curso da Regional Catalão disponibilizarem à seccional do CGA as listas de prováveis formandos do 1º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+PROBEC/PROVEC~07~06~2016~1~Publicação preliminar dos resultados das ações selecionadas para o PROBEC/PROVEC 2016, com 48h para interposição de recurso.~
+Mudança de Grau Acadêmico, Habilitação e Turno-2°sem/16~08~06~2016~1~Publicação pela Unidade Acadêmica ou Unidade Acadêmica Especial do quantitativo de vagas disponíveis para Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+Mobilidade 2016-2~10~06~2016~1~Prazo de recebimento dos pedidos de mobilidade acadêmica, PME e PMIPES, enviados por outras IFES/IPES para ingresso no 2º semestre/2016.~
+Formandos 2016-1~13~06~2016~1~Inicio do evento (Período para a seccional do CGA da Regional Catalão encaminhar às coordenações de curso os processos de colação de grau dos formandos do 1º semestre/2016.)~
+Formandos 2016-1~05~08~2016~1~Término do evento (Período para a seccional do CGA da Regional Catalão encaminhar às coordenações de curso os processos de colação de grau dos formandos do 1º semestre/2016.)~
+Exclusão 2016-1(inciso II)~14~06~2016~1~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 1º semestre/2016 (Inciso II, art.105, RGCG) na Regional Catalão.~
+Mudança de Grau Acadêmico, Habilitação e Turno-2°sem/16~20~06~2016~1~Inicio do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno-2°sem/16~28~06~2016~1~Término do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.)~
+PIBIC/PIVIC~20~06~2016~1~Inicio do evento (Avaliação das propostas PIBIC/PIBIC-AF/PIVIC pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~21~06~2016~1~Término do evento (Avaliação das propostas PIBIC/PIBIC-AF/PIVIC pelo Comitê Externo do CNPq.)~
+PROBEC/PROVEC~23~06~2016~1~Publicação Final dos resultados das ações selecionadas para o PROBEC/PROVEC 2016.~
+PROBEC/PROVEC~24~06~2016~1~Inicio do evento (Período de entrega dos documentos, na PROEC, para cadastro dos alunos bolsistas e/ou voluntários, pelos coordenadores de ações contempladas (Etapa I e Etapa II) no PROBEC/PROVEC 2016.)~
+PROBEC/PROVEC~15~07~2016~1~Término do evento (Período de entrega dos documentos, na PROEC, para cadastro dos alunos bolsistas e/ou voluntários, pelos coordenadores de ações contempladas (Etapa I e Etapa II) no PROBEC/PROVEC 2016.)~
+Disciplinas isoladas 2°semestre/2016~28~06~2016~1~Data limite para as coordenações de cursos enviarem ao CGA ou às suas Seccionais as vagas de disciplinas isoladas para o 2º semestre/2016.~
+PIBIC/PIVIC~29~06~2016~1~IniciO do evento Avaliação das propostas PIBITI/PIVITI pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~30~06~2016~1~Término do evento (Avaliação das propostas PIBITI/PIVITI pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC E PROCELIN~01~07~2016~1~Inicio do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC E PROCELIN~06~07~2016~1~Término do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC~01~07~2016~1~Inicio do evento (Período para os bolsistas e voluntários vinculados ao PIBIC/PIBIC-AF/PIVIC/PIBITI/PIVITI encaminharem seus trabalhos finais (relatórios) referentes ao período 2015/2016 aos orientadores para correção.)~
+PIBIC/PIVIC~15~07~2016~1~Término do evento (Período para os bolsistas e voluntários vinculados ao PIBIC/PIBIC-AF/PIVIC/PIBITI/PIVITI encaminharem seus trabalhos finais (relatórios) referentes ao período 2015/2016 aos orientadores para correção.)~
+PIBIC/PIVIC~01~07~2016~1~Inicio do evento (Período para envio, via online, do trabalho final (PIBIC/PIBIC-AF/ PIVIC/PIBITI/PIVITI) relativo ao período de 2015/2016, "período exclusivo ao orientador".)~
+PIBIC/PIVIC~08~08~2016~1~Término do evento (Período para envio, via online, do trabalho final (PIBIC/PIBIC-AF/ PIVIC/PIBITI/PIVITI) relativo ao período de 2015/2016, "período exclusivo ao orientador".)~
+PIBIC/PIVIC E PROCELIN~01~07~2016~1~Inicio do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT)~
+PIBIC/PIVIC E PROCELIN~06~07~2016~1~Término do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT)~
+Disciplinas isoladas 2°semestre/2016~06~07~2016~1~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 2º semestre/2016.~
+Opção pelo grau acadêmico~11~07~2016~1~Data limite para os estudantes, da Regional Catalão, informarem às coordenações de curso a opção pelo bacharelado ou licenciatura para o 2º semestre/2016.~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°sem/16~13~07~2016~1~Data limite para as coordenações de curso divulgarem o resultado das solicitações de Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~17~07~2016~1~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~31~07~2016~1~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+PIBIC/PIVIC E PROCELIN~18~07~2016~1~Inicio do evento (Divulgação do resultado final com concessão das bolsas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT 2016/2016.)~
+PIBIC/PIVIC E PROCELIN~22~07~2016~1~Término do evento (Divulgação do resultado final com concessão das bolsas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT 2016/2016.)~
+Mudança de Grau, habilitação e Turno - 2°sem/16~19~07~2016~1~Data limite para as coordenações de curso encaminharem ao CGA ou à suas Seccionais os formulários dos estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+PIBIC/PIVIC E PROCELIN~19~07~2016~1~Inicio do evento (Período para aceite do Termo de Compromisso - UFG para desenvolvimento dos planos de trabalho PIBIC/PIBIC-AF/ PROLICEN//PIBITI/PIVIC/PIVIT, período 2016/2016.)~
+PIBIC/PIVIC E PROCELIN~25~07~2016~1~Término do evento (Período para aceite do Termo de Compromisso - UFG para desenvolvimento dos planos de trabalho PIBIC/PIBIC-AF/ PROLICEN//PIBITI/PIVIC/PIVIT, período 2016/2016.)~
+PROBEC/PROVEC~31~07~2016~1~Término das atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC/2015.~
+PROBEC/PROVEC~01~08~2016~1~Inicio do evento (Período das atividades dos bolsistas PROBEC/2016 e dos voluntários PROVEC/2016.)~
+PROBEC/PROVEC~31~07~2016~1~Término do evento (Período das atividades dos bolsistas PROBEC/2016 e dos voluntários PROVEC/2016.)~
+Estágio 2106-2~02~08~2016~1~Publicação do Aviso de Edital de Seleção de Estagiários (Estágio curricular não obrigatório na UFG) para o 2º semestre/2016 na Regional Catalão.~
+Vagas Remanescentes~05~08~2016~1~Publicação do Aviso de Edital de Preenchimento de Vagas Remanescentes.~
+Formandos 2016-1~08~08~2016~1~Inicio do eventO (Período para as coordenações de curso da Regional Catalão devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 1º semestre/2016.)~
+Formandos 2016-1~25~08~2016~1~Término do evento (Período para as coordenações de curso da Regional Catalão devolverem à seccional do CGA os processos de colação de grau dos estudantes formandos do 1º semestre/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°sem/16~08~08~2016~1~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno 2°sem/16~16~08~2016~1~Término do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Oferta 2016-2~09~08~2016~1~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 2º semestre/2016 na Regional Catalão.~
+Revalidação de título~15~08~2016~1~Publicação do Aviso de Edital para Reconhecimento de título de pós-graduação Stricto Sensu expedido por instituição de ensino superior estrangeira.~
+Formandos 2016-1~19~08~2016~1~Data limite para registro e validação de atividades complementares dos formandos do 1º semestre/2016 da Regional Catalão.~
+Feriado Municipal~20~08~2016~1~Aniversário de Catalão.~
+Conpeex~22~08~2016~1~Inicio do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Conpeex~16~09~2016~1~Término do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Liberação de pré-requisito e/ou co-requisito~22~08~2016~1~Inicio do evento (Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Catalão.)~
+Liberação de pré-requisito e/ou co-requisito~02~09~2016~1~Término do evento (Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Catalão.)~
+NL 2016-2~24~08~2016~1~Data limite para as Unidades Acadêmicas Especiais encaminharem, à COGRAD, as solicitações de cadastro de novos componentes curriculares como Núcleo Livre para o 2º semestre/2016 na Regional Catalão.~
+Planejamento pedagógico 2016-2~26~08~2016~1~Inicio do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais na Regional Catalão.)~
+Planejamento pedag´gico 2016-2~30~08~2016~1~Término do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos colegiados das unidades acadêmicas especiais na Regional Catalão.)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~26~08~2016~1~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~13~09~2016~1~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).)~
+Consolidação 2016-1~30~08~2016~1~Data limite para os professores consolidarem as turmas das disciplinas do 1º semestre/2016 na Regional Catalão.~
+Oferta 2016-2~31~08~2016~1~Data limite para as Unidades Acadêmicas Especiais validarem, para o 2º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Catalão.~
+Rotinas matrículas 2016-2~31~08~2016~1~Inicio do evento (Período de execução de rotinas preparatórias da matrícula do 2º semestre/2016 na Regional Catalão.)~
+Rotinas matrículas 2016-2~01~09~2016~1~Término do evento (Período de execução de rotinas preparatórias da matrícula do 2º semestre/2016 na Regional Catalão.)~
+NL 2016-2~01~09~2016~1~Divulgação, no Portal da COGRAD, dos componentes curriculares do Núcleo Livre para o 2º semestre/2016 na Regional Catalão.~
+Mobilidade 2016-2~01~09~2016~1~Inicio do evento(Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Mibilidade 2016-2~30~09~2016~1~Término do evento. Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Exclusão 2016-1(outros incisos)~01~09~2016~1~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (incisos I e V, art. 105, RGCG) na Regional Catalão.~
+Latu Sensu~01~09~2016~1~Inicio do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Lato Sensu~30~09~2016~1~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Matrícula 2016-2~05~09~2016~1~Inicio do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016, conforme escalonamento na Regional Catalão.)~
+Matrícula 2016-2~08~09~2016~1~Término do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016, conforme escalonamento na Regional Catalão.)~
+Feriado Nacional~07~09~2016~1~Independência do Brasil.~
+Trancamento 2016-2~12~09~2016~1~Inicio do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Catalão.)~
+Trancamento 2016-2~03~02~2017~1~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Catalão.)~
+Matrícula 2016-2~13~09~2016~1~Inicio do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Catalão.)~
+Matrícula 2016-2~15~09~2016~1~Término do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Catalão.)~
+Matrícula PEC-G 2016-2~14~09~2016~1~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Catalão.)~
+Matrícula PEC-G 2016-2~15~09~2016~1~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Catalão.)~
+Período de aulas 2016-2~14~09~2016~1~Inicio do evento (Período de aulas do 2º semestre de 2016 na Regional Catalão.)~
+Período de aulas 2016-2~15~09~2016~1~Término do evento (Período de aulas do 2º semestre de 2016 na Regional Catalão.)~
+Matrícula PME e PMIPES 2016-2~14~09~2016~1~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Catalão.)~
+Matrícula PME e PMIPES 2016-2~15~09~2016~1~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Catalão.)~
+Mobilidade 2017-1~19~09~2016~1~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-1~21~10~2016~1~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Disciplinas isoladas 1°semestre/2016.~27~09~2016~1~Data limite para as coordenações de curso da Regional Catalão encaminharem à Seccional do CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 1º semestre/2016.~
+PROBEC/PROVEC~01~08~2016~0~Início do evento (Período de atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC 2015.)~
+PROBEC/PROVEC~31~07~2016~0~Término do evento (Período de atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC 2015.)~
+Biblioteca Central~01~10~2015~0~Início do Evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de Bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2016.)~
+Biblioteca Central~16~03~2016~0~Término do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de Bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2016.)~
+PIBIC/PIVIC E PROLICEN~01~01~2016~0~Início do evento (Período final para cadastro de NOVOS projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN//PIBITI/PIVIC/PIVITI))~
+PIBIC/PIVIC E PROCELIN~20~03~2016~0~Término do evento (Período final para cadastro de NOVOS projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN//PIBITI/PIVIC/PIVITI))~
+Feriado Nacional~01~01~2016~0~Confraternização Universal~
+PIBIC/PIVIC E PROLICEN~01~01~2016~0~Início do evento (Período final para prorrogação de projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVITI).)~
+PIBIC/PIVIC E PROCELIN~27~03~2016~0~Término do evento (Período final para prorrogação de projetos no SAPP com vistas aos Editais de Iniciação Científica e Desenvolvimento Tecnológico (PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVITI).)~
+Período de aulas 2016-1 Faculdade de Medicina~04~01~2016~0~Início do evento (Período das aulas do 1º semestre/2016 para os estudantes do curso de Medicina da Regional Goiânia.)~
+Período de aulas 2016-1 Faculdade de Medicina~29~07~2016~0~Término do evento (Período das aulas do 1º semestre/2016 para os estudantes do curso de Medicina da Regional Goiânia.)~
+Assistência estudantil~21~01~2016~0~Publicação de aviso de Edital de bolsas dos projetos de Assistência Estudantil da Procom/UFG.~  
+Disciplinas isoladas 1º semestre/2016~01~02~2016~0~Data limite para as coordenações de cursos enviarem ao CGA ou às suas Seccionais as vagas em disciplinas isoladas para o 1º semestre/2016.~
+Ponto Facultativo~08~02~2016~0~Carnaval~
+Ponto Facultativo~09~02~2016~0~Carnaval~
+A partir das 14h - Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas)~10~02~2016~0~Quarta-feira de Cinzas~
+Até às 14h - Ponto Facultativo~10~02~2016~0~Quarta-feira de Cinzas~
+Disciplinas isoladas 1º semestre/2016~18~02~2016~0~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 1º semestre/2016.~
+Oferta 2016-1~22~02~2016~0~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de sua matrizes curriculares, a validação de oferta de turmas para o 1º semestre/2016 na Regional Goiânia.~
+PIBIC/PIVIC~22~02~2016~0~Início do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+PIBIC/PIVIC~11~04~2016~0~Término do evento (Período de realização das inscrições online para seleção de novos estudantes bolsistas e voluntários de Iniciação Científica e Desenvolvimento Tecnológico, referente ao período de 2016/2017.)~
+Opção pelo grau acadêmico~23~01~2016~0~Data limite para os estudantes, da Regional Goiânia, informarem às coordenações de curso a opção pelo bacharelado ou licenciatura para o 1º semestre/2016.~
+Stricto Sensu~01~03~2016~0~Início do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Stricto Sensu~28~03~2016~0~Término do evento (Período para envio de propostas para novos cursos Stricto Sensu (Mestrados e/ou Doutorados) a serem submetidos à CAPES em 2016.)~
+Cepae~03~03~2016~0~Início do evento (Planejamento do 1º semestre de 2016 do CEPAE.)~
+Cepae~23~03~2016~0~Término do evento (Planejamento do 1º semestre de 2016 do CEPAE.)~
+NL 2016-1~08~03~2016~0~ Data limite para as Unidades Acadêmicas encaminharem, à PROGRAD, as solicitações de cadastro de novos componentes curriculares como Núcleo Livre para o 1º semestre/2016 na Regional Goiânia.~
+Planejamento pedagógico 2016-1~10~03~2016~0~Início do evento(Período para planejamento pedagógico e administrativo das atividades do 1º semestre/2016 e aprovação dos planos de ensino nos conselhos diretores das unidades acadêmicas da Regional Goiânia.)~
+Planejamento pedagógico 2016-2~15~03~2016~0~Término do evento(Período para planejamento pedagógico e administrativo das atividades do 1º semestre/2016 e aprovação dos planos de ensino nos conselhos diretores das unidades acadêmicas da Regional Goiânia.)~
+Lato Sensu~15~03~2016~0~Início do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Lato Sensu~15~04~2016~0~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 2º semestre/2016.)~
+Consolidação 2015-2~15~03~2016~0~Data limite para os professores consolidarem as turmas das disciplinas do 2º semestre/2015 na Regional Goiânia.~
+Oferta 2016-1~16~03~2016~0~Data limite para as coordenações de curso ofertarem turmas para o 1º semestre/2016 na Regional Goiânia.~
+Rotinas matrícula 2016-1~16~03~2016~0~Início do evento(Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Goiânia.)~
+Rotinas matrícula 2106-1~17~03~2016~0~Término do evento(Período de execução de rotinas preparatórias de matrícula do 1º semestre/2016 na Regional Goiânia.)~
+Oferta 2016-1~16~03~2016~0~ Data limite para as Unidades Acadêmicas validarem, para o 1º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Goiânia.~
+N/L 2016-1~17~03~2016~0~Divulgação, no Portal da PROGRAD, dos componentes curriculares do Núcleo Livre para o 1º semestre/2016 na Regional Goiânia.~
+Exclusão 2016-1 (outros incisos)~17~03~2016~0~ Publicação do edital de estudantes, da Regional Goiânia, em situação de exclusão da UFG a partir do 1º semestre/2016 (incisos I, III, IV, V e VI, art. 105, RGCG).~
+Matrícula 2016-1~18~03~2016~0~Início do evento(Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 1º semestre/2016, conforme escalonamento, na Regional Goiânia.)~
+Matrícula 2016-1~23~03~2016~0~Término do evento(Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 1º semestre/2016, conforme escalonamento, na Regional Goiânia.)~
+Feriado Nacional~25~03~2016~0~Paixão de Cristo~
+Cepae~28~03~2016~0~Início do evento (Período das aulas do 1º semestre do CEPAE.)~
+Cepae~08~07~2016~0~Término do evento (Período das aulas do 1º semestre do CEPAE.)~
+Trancamento 2016-1~29~03~2016~0~Inicio do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 1º semestre/2016, para a Regional Goiânia.)~
+Trancamento 2016-1~15~07~2016~0~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 1º semestre/2016, para a Regional Goiânia.)~
+Matrícula 2016-1~29~03~2016~0~Inicio do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do 1º semestre/2016, na Regional Goiânia.)~
+Matrícula 2106-1~30~03~2016~0~Término do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do 1º semestre/2016, na Regional Goiânia.)~
+Matrícula PME e PMIPES 2016-1~30~03~2016~0~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 1º Semestre/2016 na Regional Goiânia.)~
+Matrícula PME e PMIPES 2016-1~31~03~2016~0~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 1º Semestre/2016 na Regional Goiânia.)~
+Matrícula PEC-G 2016-1~30~03~2016~0~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 1º Semestre/2016 na Regional Goiânia.)~
+Matrícula PEC-G 2016-1~31~03~2016~0~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 1º Semestre/2016 na Regional Goiânia.)~
+Período de aulas 2016-1~30~03~2016~0~Inicio do evento (Período de aulas do 1º semestre de 2016 na Regional Goiânia.)~
+Período de aulas 2016-1~29~07~2016~0~Término do evento (Período de aulas do 1º semestre de 2016 na Regional Goiânia.)~
+Matrícula 2016-1~31~03~2016~0~Inicio do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 1º semestre/2016 na Regional Goiânia.)~
+Matrícula 2016-1~01~04~2016~0~Término do evento (Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 1º semestre/2016 na Regional Goiânia.)~
+Formandos 2016-1~04~04~2016~0~Inicio do evento (Período para a coordenação de curso da Regional Goiânia divulgar, no âmbito das Unidades Acadêmicas, a lista dos prováveis formandos do 1º semestre/2016.)~
+Formandos 2016-1~15~04~2016~0~Término do evento (Período para a coordenação de curso da Regional Goiânia divulgar, no âmbito das Unidades Acadêmicas, a lista dos prováveis formandos do 1º semestre/2016.)~
+Disciplinas isoladas 2º semestre/2015~05~04~2016~0~Data limite para as coordenações de curso da Regional Goiânia encaminharem ao CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 2º semestre/2015.~
+PIBIC/PIVIC E PROLICEN~12~04~2016~0~Inicio do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+PIBIC/PIVIC E PROLICEN~30~04~2016~0~Término do evento (Período de homologação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVITI referente ao período de 2016/2017.)~
+Domínio de Conteúdo~18~04~2016~0~Inicio do evento (Período para estudantes da Regional Goiânia solicitarem, no CGA, dispensa de cursar disciplina no 1º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Domínio de Conteúdo~20~05~2016~0~Término do evento (Período para estudantes da Regional Goiânia solicitarem, no CGA, dispensa de cursar disciplina no 1º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Formandos 2016-1~18~04~2016~0~Inicio do evento (Período para as coordenações de curso da Regional Goiânia disponibilizarem ao CGA as listas de prováveis formandos do 1º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Formandos 2016-1~03~05~2016~0~Término do evento (Período para as coordenações de curso da Regional Goiânia disponibilizarem ao CGA as listas de prováveis formandos do 1º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Feriado Nacional~21~04~2016~0~Tiradentes~
+Mobilidade 2016-2~25~04~2016~0~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 2º semestre/2016.)~
+Mobilidade 2016-2~23~05~2016~0~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 2º semestre/2016.)~
+PROBEC/PROVEC~26~04~2016~0~Inicio do evento (Período para os diretores das unidades acadêmicas e chefes de unidades acadêmicas especiais indicar, no SIEC, as ações selecionadas para as bolsas PROBEC atribuídas às unidades (Etapa I), ou para que manisfestem, via SIEC, o interesse de contemplar com as bolsas atribuídas às unidades na primeira etapa, as ações de sua unidade que forem melhor pontuadas na segunda etapa da seleção.)~
+PROBEC/PROVEC~29~04~2016~0~Término do evento (Período para os diretores das unidades acadêmicas e chefes de unidades acadêmicas especiais indicar, no SIEC, as ações selecionadas para as bolsas PROBEC atribuídas às unidades (Etapa I), ou para que manisfestem, via SIEC, o interesse de contemplar com as bolsas atribuídas às unidades na primeira etapa, as ações de sua unidade que forem melhor pontuadas na segunda etapa da seleção.)~
+PIBIC/PIVIC E PROLICEN~30~04~2016~0~Inicio do evento (Divulgação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVIT homologadas referente ao período 2016/2017.)~
+PIBIC/PIVIC E PROLICEN~05~05~2016~0~Término do evento (Divulgação das inscrições PIBIC/PIBIC-AF/PROLICEN/PIBITI/ PIVIC/PIVIT homologadas referente ao período 2016/2017.)~
+PIBIC/PIVIC E PROLICEN~30~04~2016~0~Inicio do evento (Período para recursos das inscrições não homologadas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC E PROLICEN~05~05~2016~0~Término do evento (Período para recursos das inscrições não homologadas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+Feriado Nacional~01~05~2016~0~Dia Mundial do Trabalho.~
+Formandos 2016-1~04~05~2016~0~Inicio do evento (Período para o CGA encaminhar às coordenações de curso os processos de colação de grau dos formandos do 1º semestre/2016 da Regional Goiânia.)~
+Formandos 2106-1~24~06~2016~0~Término do evento (Período para o CGA encaminhar às coordenações de curso os processos de colação de grau dos formandos do 1º semestre/2016 da Regional Goiânia.)~
+Feriado Municipal – Câmpus Aparecida de Goiânia~11~05~2016~0~Aniversário de Aparecida de Goiânia.~
+Feriado Municipal~24~05~2016~0~Nossa Sra. Auxiliadora (Padroeira de Goiânia).~
+Ponto Facultativo~26~05~2016~0~Corpus Christi.~
+Exclusão 2016-1 (inciso II)~31~05~2016~0~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 1º semestre/2016 (Inciso II, art.105, RGCG) na Regional Goiânia.~
+PROBEC/PROVEC~07~06~2016~0~Publicação preliminar dos resultados das ações selecionadas para o PROBEC/PROVEC 2016, com 48h para interposição de recurso.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16~08~06~2016~0~Publicação pela Unidade Acadêmica ou Unidade Acadêmica Especial do quantitativo de vagas disponíveis para Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+Mobilidade 2016-2~10~06~2016~0~Prazo de recebimento dos pedidos de mobilidade acadêmica, PME e PMIPES, enviados por outras IFES/IPES para ingresso no 2º semestre/2016.~
+Opção pelo grau acadêmico~14~06~2016~0~Data limite para os estudantes, da Regional Goiânia, informarem às coordenações de curso a opção pelo bacharelado ou licenciatura para o 2º semestre/2016.~
+Espaço das Profissões~20~06~2016~0~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas.))~
+Espaço das Profissões~21~06~2016~0~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas.))~
+PIBIC/PIVIC~20~06~2016~0~Inicio do evento (Avaliação das propostas PIBIC/PIBIC-AF/PIVIC pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~21~06~2016~0~Término do evento (Avaliação das propostas PIBIC/PIBIC-AF/PIVIC pelo Comitê Externo do CNPq.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16~20~06~2016~0~Inicio do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16~28~06~2016~0~Término do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.)~
+PROBEC/PROVEC~23~06~2016~0~Publicação Final dos resultados das ações selecionadas para o PROBEC/PROVEC 2016.~
+PROBEC/PROVEC~24~06~2016~0~Inicio do evento (Período de entrega dos documentos, na PROEC, para cadastro dos alunos bolsistas e/ou voluntários, pelos coordenadores de ações contempladas (Etapa I e Etapa II) no PROBEC/PROVEC 2016.)~
+PROBEC/PROVEC~15~07~2016~0~Término do evento (Período de entrega dos documentos, na PROEC, para cadastro dos alunos bolsistas e/ou voluntários, pelos coordenadores de ações contempladas (Etapa I e Etapa II) no PROBEC/PROVEC 2016.)~
+Formandos 2016-1~27~06~2016~0~Inicio do evento (Período para as coordenações de curso da Regional Goiânia devolverem ao CGA os processos de colação de grau dos estudantes formandos do 1º semestre/2016.)~
+Formandos 2016-1~29~07~2016~0~Término do evento (Período para as coordenações de curso da Regional Goiânia devolverem ao CGA os processos de colação de grau dos estudantes formandos do 1º semestre/2016.)~
+Disciplinas isoladas 2° semestre/2016.~28~06~2016~0~Data limite para as coordenações de cursos enviarem ao CGA ou às suas Seccionais as vagas de disciplinas isoladas para o 2º semestre/2016.~
+PIBIC/PIVIC~29~06~2016~0~Inicio do evento (Avaliação das propostas PIBITI/PIVITI pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~30~06~2016~0~Término do evento (Avaliação das propostas PIBITI/PIVITI pelo Comitê Externo do CNPq.)~
+PIBIC/PIVIC~01~07~2016~0~Inicio do evento (Período para os bolsistas e voluntários vinculados ao PIBIC/PIBIC-AF/PIVIC/PIBITI/PIVITI encaminharem seus trabalhos finais (relatórios) referentes ao período 2015/2016 aos orientadores para correção.)~
+PIBIC/PIVIC~15~07~2016~0~Término do evento (Período para os bolsistas e voluntários vinculados ao PIBIC/PIBIC-AF/PIVIC/PIBITI/PIVITI encaminharem seus trabalhos finais (relatórios) referentes ao período 2015/2016 aos orientadores para correção.)~
+PIBIC/PIVIC~01~07~2016~0~Inicio do evento (Período para envio, via online, do trabalho final (PIBIC/PIBIC-AF/ PIVIC/PIBITI/PIVITI) relativo ao período de 2015/2016, "período exclusivo ao orientador".)~
+PIBIC/PIVIC~08~08~2016~0~Término do evento (Período para envio, via online, do trabalho final (PIBIC/PIBIC-AF/ PIVIC/PIBITI/PIVITI) relativo ao período de 2015/2016, "período exclusivo ao orientador".)~
+PIBIC/PIVIC~01~07~2016~0~Inicio do evento (Divulgação "preliminar" das propostas de PIBIC/PIBIC-AF/PIVIC/ PIBITI/PIVITI recomendadas pelo Comitê Institucional de Iniciação Científica/UFG/CNPq.)~
+PIBIC/PIVIC~06~07~2016~0~Término do evento (Divulgação "preliminar" das propostas de PIBIC/PIBIC-AF/PIVIC/ PIBITI/PIVITI recomendadas pelo Comitê Institucional de Iniciação Científica/UFG/CNPq.)~
+PIBIC/PIVIC E PROLICEN~01~07~2016~0~Inicio do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+PIBIC/PIVIC E PROLICEN~06~07~2016~0~Término do evento (Período para encaminhamento de recursos quanto a pontuação e a avaliação final PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT.)~
+Disciplinas isoladas 2º semestre/2016~06~07~2016~0~Publicação do Aviso de Edital de vagas disponíveis em disciplinas isoladas para o 2º semestre/2016.~
+Oferta 2016-2~12~07~2016~0~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o 2º semestre/2016 na Regional Goiânia.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2º sem/16~13~07~2016~0~Data limite para as coordenações de curso divulgarem o resultado das solicitações de Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+PIBIC/PIVIC E PROLICEN~18~07~2016~0~Inicio do evento (Divulgação do resultado final com concessão das bolsas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT 2016/2016.)~
+PIBIC/PIVIC E PROLICEN~22~07~2016~0~Término do evento (Divulgação do resultado final com concessão das bolsas PIBIC/PIBIC-AF/PROLICEN/PIBITI/PIVIC/PIVIT 2016/2016.)~
+Mudança de Grau Acadêmico, Habilitação e Turno-2°sem/16~19~07~2016~0~Data limite para as coordenações de curso encaminharem ao CGA ou à suas Seccionais os formulários dos estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016.~
+PIBIC/PIVIC E PROLICEN~19~07~2016~0~Inicio do evento (Período para aceite do Termo de Compromisso - UFG para desenvolvimento dos planos de trabalho PIBIC/PIBIC-AF/ PROLICEN//PIBITI/PIVIC/PIVIT, período 2016/2016.)~
+PIBIC/PIVIC E PROLICEN~25~07~2016~0~Término do evento (Período para aceite do Termo de Compromisso - UFG para desenvolvimento dos planos de trabalho PIBIC/PIBIC-AF/ PROLICEN//PIBITI/PIVIC/PIVIT, período 2016/2016.)~
+Formandos 2016-1~22~07~2016~0~Data limite para registro e validação de atividades complementares dos formandos do 1º semestre/2016 da Regional Goiânia.~
+Liberação de pré-requisito e\ou co-requisito~26~07~2016~0~Inicio do evento (Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Goiânia.)~
+Liberação de pré-requisito e/ou co-requisito~08~08~2016~0~Término do evento (Período para os estudantes solicitarem a liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Goiânia.)~
+NL 2016-2~28~07~2016~0~Data limite para as Unidades Acadêmicas encaminharem, à PROGRAD, as solicitações de cadastro de novos componentes curriculares com Núcleo Livre para o 2º semestre/2016 na Regional Goiânia.~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas)~30~07~2016~0~Inicio do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas))~
+Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas)~17~08~2016~0~Término do evento (Recesso Acadêmico (Não haverá aulas sendo mantidas as demais atividades administrativas).~
+PROBEC/PROVEC~31~07~2016~0~Término das atividades dos bolsistas PROBEC/2015 e dos voluntários PROVEC/2015.~
+Planejamento Pedagógico 2016-2~01~08~2016~0~Inicio do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos conselhos diretores das unidades acadêmicas da Regional Goiânia.)~
+Planejamento pedagógico 2106-2~04~08~2016~0~Término do evento (Período para planejamento pedagógico e administrativo das atividades do 2º semestre/2016 e aprovação dos planos de ensino nos conselhos diretores das unidades acadêmicas da Regional Goiânia.)~
+PROBEC/PROVEC~01~08~2016~0~Inicio do evento (Período das atividades dos bolsistas PROBEC/2016 e dos voluntários PROVEC/2016.)~
+PROBEC/PROVEC~31~07~2016~0~Término do evento (Período das atividades dos bolsistas PROBEC/2016 e dos voluntários PROVEC/2016.)~
+Período de aula 2016-2 Faculdade de Medicina~01~08~2016~0~Inicio do evento (Período das aulas do 2º semestre/2016 para os estudantes do curso de Medicina da Regional Goiânia.)~
+Período de aula 2016-2 Faculdade de Medicina~23~12~2016~0~Término do evento, Período das aulas do 2º semestre/2016 para os estudantes do curso de Medicina da Regional Goiânia.)~
+Cepae~02~08~2016~0~Inicio do evento (Planejamento do 2º semestre de 2016 do CEPAE.)~
+Cepae~06~08~2016~0~Término do evento (Planejamento do 2º semestre de 2016 do CEPAE.~
+Estágio 2016-2~02~08~2016~0~Publicação do Aviso de Edital de Seleção de Estagiários (Estágio curricular não obrigatório na UFG) para o 2º semestre/2016 na Regional Goiânia.~
+Consolidação 2016-1~04~08~2016~0~Data limite para os professores consolidarem as turmas das disciplinas do 1º semestre/2016 na Regional Goiânia.~
+Rotinas matrícula 2016-2~05~08~2016~0~Inicio do evento (Período de execução de rotinas preparatórias da matrícula do 2º semestre/2016 na Regional Goiânia.)~
+Rotinas matrícula 2016-2~08~08~2016~0~Término do evento (Período de execução de rotinas preparatórias da matrícula do 2º semestre/2016 na Regional Goiânia.~
+Oferta 2016-2~05~08~2016~0~Data limite para as Unidades Acadêmicas validarem, para o 2º semestre/2016, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Goiânia.~
+Vagas remanescentes~05~08~2016~0~Publicação do Aviso de Edital de Preenchimento de Vagas Remanescentes.~
+Oferta 2016-2~05~08~2016~0~Data limite para as coordenações de curso ofertarem turmas para o 2º semestre/2016 na Regional Goiânia.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16~08~08~2016~0~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 2°sem/16~16~08~2016~0~Término do evento. Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 2° semestre/2016 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Cepae~08~08~2016~0~Inicio do evento (Período das aulas 2° semestre do CEPAE.)~
+Cepae~10~12~2016~0~Término do evento (Período das aulas 2° semestre do CEPAE.)~
+Exclusão 2016-2(outros incisos)~08~08~2016~0~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (incisos I e V, art. 105, RGCG) na Regional Goiânia.~
+NL 2016-2~08~08~2016~0~Divulgação, no Portal da PROGRAD, dos componentes curriculares do Núcleo Livre para o 2º semestre/2016 na Regional Goiânia.~
+Matrícula 2016-2~09~08~2016~0~Inicio do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016, conforme escalonamento na Regional Goiânia.)~
+Matrícula 2016-2~15~08~2016~0~Término do evento (Período para o estudante veterano solicitar matrícula ou trancamento de matrícula do 2º semestre/2016, conforme escalonamento na Regional Goiânia.)~
+Revalidação de Título~15~08~2016~0~Publicação do Aviso de Edital para Reconhecimento de título de pós-graduação Stricto Sensu expedido por instituição de ensino superior estrangeira.~
+Trancamento 2016-2~17~08~2016~0~Inicio do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Goiânia.)~
+Trancamento 2016-2~09~12~2016~0~Término do evento (Período para o estudante veterano trancar matrícula, via Portal do Discente - 2º semestre/2016 na Regional Goiânia.)~
+Matrícula 2016-2~18~08~2016~0~Inicio do evento~
+Matrícula 2016-2~20~08~2016~0~Término do evento,Período para o estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular para o 2º semestre/2016 na Regional Goiânia.~
+Matrícula PEC-G 2016-2~18~08~2016~0~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Goiânia.)~
+Matrícula PEC-G 2016-2~19~08~2016~0~Término do evento (Período de matrícula de estudantes ingressantes pelo PEC-G - 2º Semestre/2016 na Regional Goiânia.)~
+Matrícula PME e PMIPES 2016-2~18~08~2016~0~Inicio do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Goiânia.)~
+Matrícula PME e PMIPES 2016-2~9~08~2016~0~Término do evento (Período de matrícula de estudantes ingressantes pelo PME e PMIPES - 2º Semestre/2016 na Regional Goiânia.)~
+Período de aulas 2016-2~18~08~2016~0~Inicio do evento (Período de aulas do 2º semestre de 2016 na Regional Goiânia.)~
+Período de aulas 2106-2~23~12~2016~0~Término do evento (Período de aulas do 2º semestre de 2016 na Regional Goiânia.)~
+Conpeex~22~08~2016~0~Inicio do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Conpeex~16~09~2016~0~Término do evento (Período para a submissão, via online, dos trabalhos a serem apresentados no Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Disciplinas isoladas 1° semestre/2016~30~08~2016~0~Data limite para as coordenações de curso da Regional Goiânia encaminharem ao CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 1º semestre/2016.~
+Domínio de conteúdo~01~09~2016~0~Inicio do evento (Término do evento. Período para estudantes da Regional Goiânia solicitarem, no CGA, dispensa de cursar disciplina no 2º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Domínio de conteúdo~03~10~2016~0~Término do evento (Período para estudantes da Regional Goiânia solicitarem, no CGA, dispensa de cursar disciplina no 2º semestre de 2016, mediante comprovado domínio de conteúdo.)~
+Latu Sensu~01~09~2016~0~Inicio do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Latu Sensu~30~09~2016~0~Término do evento (Período para solicitação de criação ou oferta de nova turma de cursos de pós-graduação Lato Sensucom início no 1º semestre/2017.)~
+Formandos 2016-2~01~09~2016~0~Inicio do evento (Período para a coordenação de curso da Regional Goiânia divulgar, no âmbito das Unidades Acadêmicas , a lista dos prováveis formandos do 2º semestre/2016.)~
+Formandos 2016-2~16~09~2016~0~Término do evento (Período para a coordenação de curso da Regional Goiânia divulgar, no âmbito das Unidades Acadêmicas , a lista dos prováveis formandos do 2º semestre/2016.)~
+Mobilidade 2017-1~01~09~2016~0~Inicio do evento (Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-1~30~09~2016~0~Término do evento (Período para estudantes da UFG solicitarem participação no PMI com ingresso para o 1º semestre/2017.)~
+Liberação de pré-requisito e/ou co-requisito~02~09~2016~0~Data limite para os conselhos diretores das unidades acadêmicas analisarem solicitações de liberação de pré-requisito e/ou co-requisito de disciplinas ou eixos temáticos/módulos ofertados em 2016/2, Regional Goiânia.~
+Matrícula 2016-2~05~09~2016~0~Data limite para os coordenadores de curso analisarem as solicitações de acréscimo de componente curricular para o 2º semestre/2016, Regional Goiânia.~
+Feriado Nacional~07~08~2016~0~Independência do Brasil.~
+Mobilidade 2017-1~19~09~2016~0~Inicio do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Mobilidade 2017-1~21~09~2016~0~Término do evento (Período para estudantes da UFG solicitarem participação no PME e PMIPES com ingresso para o 1º semestre/2017.)~
+Formandos 2016-2~19~09~2016~0~Inicio do evento (Período para as coordenações de curso da Regional GoiâniadisponibilizaremaoCGA as listas de prováveis formandos do 2º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Formandos 2016-2~30~09~2016~0~Término do evento (Período para as coordenações de curso da Regional GoiâniadisponibilizaremaoCGA as listas de prováveis formandos do 2º semestre/2016, especificando o curso, grau acadêmico (bacharelado ou licenciatura) e habilitação (quando houver).)~
+Exclusão 2016-1~20~09~2016~0~Publicação do edital de estudantes excluídos da UFG a partir do 1º semestre/2016 na Regional Goiânia.~
+Formandos 2016-2~03~10~2016~0~Inicio do evento (Período para o CGA da Regional Goiânia encaminhar às coordenações de curso os processos de colação de grau dos formandos do 2º semestre/2016.)~
+Formandos 2016-2~18~09~2016~0~Término do evento (Período para o CGA da Regional Goiânia encaminhar às coordenações de curso os processos de colação de grau dos formandos do 2º semestre/2016.)~
+Feriado Nacional~12~10~2016~0~Nossa Senhora de Aparecida.~
+Conpeex~17~10~2016~0~Inicio do evento (Período de realização do Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Conpeex~19~10~2016~0~Término do evento (Período de realização do Conpeex 2016 - XIII Congresso de Pesquisa, Ensino e Extensão da UFG (VIII Seminário de Pesquisa, XXIV Seminário de Iniciação Científica, XIII Seminário de Pós-Graduação, XIV Mostra de Extensão e Cultura, Seminários PET, PROLICEN e PIBID).)~
+Exclusão 2016-2 (inciso II)~18~10~2016~0~Publicação do edital de estudantes em situação de exclusão da UFG a partir do 2º semestre/2016 (Inciso II, art.105, RGCG) na Regional Goiânia.~
+Biblioteca Central~21~10~2016~0~Inicio do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2017.)~
+Biblioteca Central~17~03~2017~0~Término do evento (Período para os representantes de Unidades Acadêmicas e Unidades Acadêmicas Especiais no Conselho de bibliotecas encaminharem para a Biblioteca Central a lista dos livros e demais materiais informacionais para aquisição no ano letivo/2017.)~
+Feriado Municipal~24~10~2016~0~Aniversário de Goiânia.~
+Revalidação de Diploma~26~10~2016~0~Publicação do Aviso de edital para revalidação de diplomas de cursos de graduação expedidos por instituições de ensino superior estrangeiras, exceto para cursos de Medicina.~
+Ponto Facultativo~28~10~2016~0~Dia do Servidor Público.~
+Ponto Facultativo~29~10~2016~0~Recesso Acadêmico.~
+Feriado Nacional~02~11~2016~0~Finados.~
+Mobilidade 2017-1~07~11~2016~0~Publicação do aviso de Edital para a seleção de alunos para o PMI da UFG para 2017.~
+Mudança de Grau Acadêmico~10~11~2016~0~Publicação pela Unidade Acadêmica ou Unidade Acadêmica Especial do quantitativo de vagas disponíveis para Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+Mobilidade 2017-0~11~11~2016~0~Prazo de recebimento dos pedidos de mobilidade acadêmica, PME e PMIPES, enviados por outras IFES/IPES para ingresso no 1º semestre/2017.~
+Feriado Municipal~14~11~2016~0~Emancipação de Aparecida de Goiânia.~
+Feriado Nacional~15~11~2016~0~Proclamção da República.~
+Feriado Municipal~20~11~2016~0~Consciência Negra.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~21~11~2016~0~Inicio do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.)~
+Mudança de Grau Acadêmico, Hbailitação e Turno - 1°sem/17~30~11~2016~0~Término do evento (Período para o estudante manifestar, na respectiva coordenação de curso, o interesse em pleitear as mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.)~
+Formandos 2016-2~21~11~2016~0~Inicio do evento (Período para as coordenações de curso da Regional Goiânia devolveremao CGA os processos de colação de grau dos estudantes formandos do 2º semestre/2016.)~
+Formandos 2016-2~20~12~2016~0~Término do evento (Período para as coordenações de curso da Regional Goiânia devolveremao CGA os processos de colação de grau dos estudantes formandos do 2º semestre/2016.~
+Verão 2017 Oferta~01~12~2016~0~Data limite para as coordenações de curso solicitarem às unidades responsáveis pelos componentes curriculares de suas matrizes curriculares, a validação de oferta de turmas para o Verão/2017 na Regional Goiânia.~
+Formandos 2016-2~12~12~2016~0~Data limite para registro e validação de atividades complementares dos formandos do 2º semestre/2016 da Regional Goiânia.~
+Verão 2017 NL~12~12~2016~0~Data limite para as Unidades Acadêmicas encaminharem, à PROGRAD, as solicitações de cadastro de novos componentes curriculares como Núcleo Livre para o Verão/2017 na Regional Goiânia.~
+Mudança de Grau Acadêmico, Habilitação e Turno~13~12~2016~0~Data limite para as coordenações de curso divulgarem o resultado das solicitações de Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+PROBEC/PROVEC~16~12~2016~0~Publicação do Edital PROBEC/PROVEC 2017/2018.~
+Verão 2017 Oferta~19~12~2016~0~Data limite para as coordenações de curso ofertarem turmas para o Verão/2017 na Regional Goiânia.~
+Verão 2017 NL~19~12~2016~0~Divulgação, no Portal da PROGRAD, dos componentes curriculares do Núcleo Livre para o Verão/2017 na Regional Goiânia.~
+Verão 2017 Oferta~19~12~2016~0~Data limite para as Unidades Acadêmicas validarem, para o Verão/2017, as ofertas de turmas de disciplinas solicitadas pelas coordenações de cursos, com vinculação dos docentes na Regional Goiânia.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1º sem/17~19~12~2016~0~Data limite para as coordenações de curso encaminharem ao CGA ou à suas Seccionais os formulários dos estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017.~
+Veraõ 2017 Matrícula~20~12~2016~0~Inicio do evento (Período para o estudante, da Regional Goiânia, solicitar vagas em turmas ofertadas no Verão/2017.)~
+Verão 2017 Matrícula~21~12~2016~0~Término do evento (Período para o estudante, da Regional Goiânia, solicitar vagas em turmas ofertadas no Verão/2017.)~
+Feriado Nacional~25~12~2016~0~Natal~
+Verão 2017 Matrícula~04~01~2017~0~Inicio do evento (Período para o Estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular - Verão/2017 na Regional Goiânia.)~
+Verão 2017 Matrícula~05~01~2017~0~Término do evento (Período para o Estudante veterano solicitar, via Portal Discente, cancelamento e acréscimo de componente curricular - Verão/2017 na Regional Goiânia.)~
+Consolidaçaõ 2016-2~04~01~2017~0~Data limite para os professores consolidarem as turmas das disciplinas do 2º semestre/2016 na Regional Goiânia.~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~05~01~2017~0~Inicio do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Mudança de Grau Acadêmico, Habilitação e Turno - 1°sem/17~09~01~2017~0~Término do evento (Período para os estudantes contemplados com as Mudanças de Grau Acadêmico, Habilitação e Turno para o 1° semestre/2017 comparecerem ao CGA ou à suas Seccionais para efetivar as mudanças.)~
+Verão 2017~09~01~2017~0~Inicio do evento (Período para realização das disciplinas do Verão/2017 na Regional Goiânia.)~
+Verão 2017~24~02~2017~0~Término do evento (Período para realização das disciplinas do Verão/2017 na Regional Goiânia.)~
+Verão 2017 Matrícula~09~01~2017~0~Inicio do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do Verão/2017 na Regional Goiânia.)~
+Verão 2017 Matrícula~10~01~2017~0~Término do evento (Período de cancelamento e/ou matrícula em turmas com vagas remanescentes do Verão/2017 na Regional Goiânia.)~
+Disciplinas isoladas 2° semestre/2016~26~01~2017~1~Data limite para as coordenações de curso da Regional Goiânia encaminharem ao CGA, por meio de memorando, a nota e a frequência de estudante de disciplinas isoladas do 2º semestre/2016.~
+Início das aulas 2017~06~03~2017~0~Início das aulas do 1º semestre de 2017 na Regional Goiânia.~
+Exclusão 2016-2~06~04~2017~0~Publicação do edital de estudantes excluídos da UFG a partir do 2º semestre/2016 na Regional Goiânia.~
