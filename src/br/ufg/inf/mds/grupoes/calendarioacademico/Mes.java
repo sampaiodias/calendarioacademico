@@ -6,6 +6,8 @@
 package br.ufg.inf.mds.grupoes.calendarioacademico;
 
 import java.text.DateFormatSymbols;
+import java.util.Calendar;
+import java.util.List;
 import java.util.Locale;
 
 /**
@@ -16,18 +18,11 @@ public class Mes {
 
   private int ano;
   private int codMes;
-  private int codRegional;
-  private Evento[] listaEventos;
+  private List<Evento> listaEventos;
 
-  public Mes(int ano, int codMes, int codRegional) {
+  public Mes(int ano, int codMes) {
     this.ano = ano;
     this.codMes = codMes;
-    this.codRegional = codRegional;
-  }
-
-  public Mes(String linha) {
-    // TODO: Implementar um método que transforme String em mês
-    this(0, 0, 0);
   }
 
   /**
@@ -44,7 +39,7 @@ public class Mes {
 
     construtor.append(String.format("-- %s --\n", nomeMes.toUpperCase()));
     for (final Evento evento : this.listaEventos) {
-      String texto = String.format("> %s - %s", evento.getDia(),
+      String texto = String.format("> %s - %s", evento.getData().get(Calendar.DAY_OF_MONTH),
               evento.getNome());
 
       construtor.append(texto).append("\n");
@@ -69,19 +64,11 @@ public class Mes {
     this.codMes = codMes;
   }
 
-  public int getCodRegional() {
-    return codRegional;
-  }
-
-  public void setCodRegional(int codRegional) {
-    this.codRegional = codRegional;
-  }
-
-  public Evento[] getListaEventos() {
+  public List<Evento> getListaEventos() {
     return listaEventos;
   }
 
-  public void setListaEventos(Evento[] listaEventos) {
+  public void setListaEventos(List<Evento> listaEventos) {
     this.listaEventos = listaEventos;
   }
 }
